@@ -1,0 +1,3 @@
+This is JS Back-End workshop project. 
+It is an application using Express.js as a back-end framework and MongoDB as a database with mongoose. View-engine is express-handlebars. Use of bcrypt for hashing the password. Use of Validation and Error Handling as well as Authentication and Authorisation. Default provided HTML and CSS 
+This application is for wizard creatures. Guests may use it to review posts. Log-in users may be able to create their posts and vote to other's posts they are interested in
